@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		CA7DF79C2F313FF600E42459 /* cool exploration thing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cool exploration thing.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CA439ABB2F37BB8500E29FA6 /* BlockLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlockLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		CA7DF79E2F313FF600E42459 /* cool exploration thing */ = {
+		CA439ABD2F37BB8500E29FA6 /* BlockLayout */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "cool exploration thing";
+			path = BlockLayout;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CA7DF7992F313FF600E42459 /* Frameworks */ = {
+		CA439AB82F37BB8500E29FA6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CA7DF7932F313FF500E42459 = {
+		CA439AB22F37BB8400E29FA6 = {
 			isa = PBXGroup;
 			children = (
-				CA7DF79E2F313FF600E42459 /* cool exploration thing */,
-				CA7DF79D2F313FF600E42459 /* Products */,
+				CA439ABD2F37BB8500E29FA6 /* BlockLayout */,
+				CA439ABC2F37BB8500E29FA6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CA7DF79D2F313FF600E42459 /* Products */ = {
+		CA439ABC2F37BB8500E29FA6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CA7DF79C2F313FF600E42459 /* cool exploration thing.app */,
+				CA439ABB2F37BB8500E29FA6 /* BlockLayout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CA7DF79B2F313FF600E42459 /* cool exploration thing */ = {
+		CA439ABA2F37BB8500E29FA6 /* BlockLayout */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CA7DF7A72F313FFA00E42459 /* Build configuration list for PBXNativeTarget "cool exploration thing" */;
+			buildConfigurationList = CA439AC62F37BB8700E29FA6 /* Build configuration list for PBXNativeTarget "BlockLayout" */;
 			buildPhases = (
-				CA7DF7982F313FF600E42459 /* Sources */,
-				CA7DF7992F313FF600E42459 /* Frameworks */,
-				CA7DF79A2F313FF600E42459 /* Resources */,
+				CA439AB72F37BB8500E29FA6 /* Sources */,
+				CA439AB82F37BB8500E29FA6 /* Frameworks */,
+				CA439AB92F37BB8500E29FA6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				CA7DF79E2F313FF600E42459 /* cool exploration thing */,
+				CA439ABD2F37BB8500E29FA6 /* BlockLayout */,
 			);
-			name = "cool exploration thing";
+			name = BlockLayout;
 			packageProductDependencies = (
 			);
-			productName = "cool exploration thing";
-			productReference = CA7DF79C2F313FF600E42459 /* cool exploration thing.app */;
+			productName = BlockLayout;
+			productReference = CA439ABB2F37BB8500E29FA6 /* BlockLayout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CA7DF7942F313FF500E42459 /* Project object */ = {
+		CA439AB32F37BB8500E29FA6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					CA7DF79B2F313FF600E42459 = {
+					CA439ABA2F37BB8500E29FA6 = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = CA7DF7972F313FF600E42459 /* Build configuration list for PBXProject "cool exploration thing" */;
+			buildConfigurationList = CA439AB62F37BB8500E29FA6 /* Build configuration list for PBXProject "BlockLayout" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = CA7DF7932F313FF500E42459;
+			mainGroup = CA439AB22F37BB8400E29FA6;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = CA7DF79D2F313FF600E42459 /* Products */;
+			productRefGroup = CA439ABC2F37BB8500E29FA6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CA7DF79B2F313FF600E42459 /* cool exploration thing */,
+				CA439ABA2F37BB8500E29FA6 /* BlockLayout */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		CA7DF79A2F313FF600E42459 /* Resources */ = {
+		CA439AB92F37BB8500E29FA6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CA7DF7982F313FF600E42459 /* Sources */ = {
+		CA439AB72F37BB8500E29FA6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		CA7DF7A52F313FFA00E42459 /* Debug */ = {
+		CA439AC42F37BB8700E29FA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -160,7 +160,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 9DA924RBVV;
+				DEVELOPMENT_TEAM = 4UG443984D;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		CA7DF7A62F313FFA00E42459 /* Release */ = {
+		CA439AC52F37BB8700E29FA6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +224,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 9DA924RBVV;
+				DEVELOPMENT_TEAM = 4UG443984D;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		CA7DF7A82F313FFA00E42459 /* Debug */ = {
+		CA439AC72F37BB8700E29FA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -261,13 +261,12 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ca.on.lcs.CoolExplorationThing;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.ethanweinbrecht.BlockLayout;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -279,7 +278,7 @@
 			};
 			name = Debug;
 		};
-		CA7DF7A92F313FFA00E42459 /* Release */ = {
+		CA439AC82F37BB8700E29FA6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,13 +293,12 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ca.on.lcs.CoolExplorationThing;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.ethanweinbrecht.BlockLayout;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -315,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CA7DF7972F313FF600E42459 /* Build configuration list for PBXProject "cool exploration thing" */ = {
+		CA439AB62F37BB8500E29FA6 /* Build configuration list for PBXProject "BlockLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CA7DF7A52F313FFA00E42459 /* Debug */,
-				CA7DF7A62F313FFA00E42459 /* Release */,
+				CA439AC42F37BB8700E29FA6 /* Debug */,
+				CA439AC52F37BB8700E29FA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CA7DF7A72F313FFA00E42459 /* Build configuration list for PBXNativeTarget "cool exploration thing" */ = {
+		CA439AC62F37BB8700E29FA6 /* Build configuration list for PBXNativeTarget "BlockLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CA7DF7A82F313FFA00E42459 /* Debug */,
-				CA7DF7A92F313FFA00E42459 /* Release */,
+				CA439AC72F37BB8700E29FA6 /* Debug */,
+				CA439AC82F37BB8700E29FA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CA7DF7942F313FF500E42459 /* Project object */;
+	rootObject = CA439AB32F37BB8500E29FA6 /* Project object */;
 }
