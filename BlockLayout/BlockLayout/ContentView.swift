@@ -15,10 +15,11 @@ struct ContentView: View {
             
             HStack {
                 Group {
-                    Rectangle()
-                    Rectangle()
-                    Rectangle()
-                    Rectangle()
+                    Rectangle().aspectRatio(1.0/1.0, contentMode:.fit )
+                    
+                    Rectangle().aspectRatio(1.0/1.0, contentMode:.fit )
+                    Rectangle().aspectRatio(1.0/1.0, contentMode:.fit )
+                    Rectangle().aspectRatio(1.0/1.0, contentMode:.fit )
                     
                     .aspectRatio(1.0/1.0, contentMode:.fit )}
             }
